@@ -53,5 +53,3 @@ public class FlipkartBookSelection {
 //		driver.findElement(By.xpath("(//div[@class='_3O0U0u'])[1]/div[1]")).click();			
 //}
 //clicking on first search result
-
-
